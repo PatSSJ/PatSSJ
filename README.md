@@ -1,11 +1,16 @@
 <!--
+
 **PatSSJ/PatSSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+ 
 <img width="1024" height="1024" alt="Gemini_Generated_Image_jwgifjwgifjwgifj" src="https://github.com/user-attachments/assets/37ca7aa6-54b2-4320-874e-5dcf416631f9" />
 
+ 
 # Hi there! I'm Pat 💻✨ ### Fullstack Developer (DAW) | Digital Marketing Specialist | SEO Content Strategist
 
-I bridge the gap between clean code and digital growth. Currently pursuing a Higher Degree in **Web Application Development (DAW)**, I specialize in building robust backends while ensuring every project is search-engine optimized from the first line of code.
+ 
+I bridge the gap between clean code and digital growth. Currently pursuing a Higher Degree in **Web Application Development (DAW)**
+I specialize in building robust backends while ensuring every project is search-engine optimized from the first line of code.
 
 ---
 
